@@ -22,7 +22,7 @@ const DoughNutContainer = () => {
         labels: ['Odd School', 'Standard School'],
         datasets: [
             {
-                label: 'Monthly Sales',
+                label: 'school structure',
                 data: [oddSchoolNum , StandSchool],
                 backgroundColor: [
                     'rgba(75, 192, 192, 0.8)',
